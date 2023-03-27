@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/Codex-Swapnil1?logo=github&style=fo
 
 
 ### Socials
- <p align="left"> <a href="https://www.github.com/ravirana75036" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ravindra-kumar-347401183/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a  target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a></p>
+ <p align="left"> <a href="https://www.github.com/ravirana75036" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ravindra-kumar-347401183/" target="_blank" rel="noreferrer">
 
 ### Badges
 
